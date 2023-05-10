@@ -1,4 +1,3 @@
-
 ' UTR
 ' cap
 (HCO
@@ -7,7 +6,6 @@
 -helix
 -methylguanosine cap
 -pleated sheet
-A
 A horizon
 ATP
 Abdomen
@@ -205,7 +203,6 @@ Axillary bud
 Axon
 Axon hillock
 Axon terminals
-B
 B cells
 B horizon
 Back mutations
@@ -248,7 +245,6 @@ Biodiversity hotspots
 Bioenergetics
 Biofilm
 Biogeochemical cycle
-Biogeography
 Biogeography
 Biological community
 Biological macromolecules
@@ -295,7 +291,6 @@ Buffers
 Bulb
 Bulbourethral gland
 Bush meat
-C
 C horizon
 CA-MRSA
 CAAT box
@@ -536,7 +531,6 @@ Cytoplasm
 Cytoskeleton
 Cytosol
 Cytotoxic T lymphocytes
-D
 DNA barcoding
 DNA fingerprinting
 DNA microarrays
@@ -619,7 +613,6 @@ Down feathers
 Down-regulation
 Duodenum
 Dura mater
-E
 Eccrine glands
 Ecdysis
 Ecdysozoa
@@ -673,7 +666,6 @@ Endocrine
 Endocrine cells
 Endocrine glands
 Endocrine signals
-Endocytosis
 Endocytosis
 Endodermis
 Endomycorrhizae
@@ -754,7 +746,6 @@ Extinction rates
 Extracellular domain
 Extracellular matrix
 Extremophiles
-F
 FACT
 FEV
 Facial bones
@@ -813,7 +804,6 @@ Functional vital capacity
 Furcula
 Fusiform
 Fusion
-G
 G-protein
 G-protein-linked receptors
 GC-rich boxes
@@ -932,7 +922,6 @@ Gustation
 Gymnosperms
 Gynoecium
 Gyri
-H
 HIV (human
 Habitat isolation
 Habituation
@@ -990,7 +979,6 @@ Horizontal transmission
 Hormonal stimuli
 Hormone
 Hormones
-Hormones
 Horsetails
 Host
 Host DNA
@@ -1032,7 +1020,6 @@ Hypothesis
 Hypothesis-based science
 Hypothyroidism
 Hypotonic
-I
 I molecules
 INDEX
 Ileum
@@ -1122,7 +1109,6 @@ Isotonic
 Isotopes
 Isthmus
 Iteroparity
-J
 J-shaped growth curve
 Jacobson's organ
 Jasmonates
@@ -1130,7 +1116,6 @@ Jejunum
 Joint
 Juxtaglomerular cells
 Juxtamedullary nephrons
-K
 K-selected species
 Karyogamy
 Karyogram
@@ -1150,7 +1135,6 @@ Kingdom
 Koch's postulates
 Kozak
 Krebs cycle
-L
 Labia majora
 Labia minora
 Labyrinth
@@ -1224,13 +1208,11 @@ Lycopodiophyta
 Lymph
 Lymph nodes
 Lymphocytes
-Lymphocytes
 Lysis
 Lysis buffer
 Lysogenic cycle
 Lysosomes
 Lytic cycle
-M
 MHC II molecules
 Macromolecules
 Macronutrients
@@ -1387,7 +1369,6 @@ Myofilaments
 Myopia
 Myosin
 Myxini
-N
 Nasal cavity
 Natural killer cells
 Natural sciences
@@ -1451,7 +1432,6 @@ Nucleus
 Nucleus-first
 Null
 Nutrients
-O
 O horizon
 Obligate aerobes
 Obligate anaerobes
@@ -1511,7 +1491,6 @@ Osmotic pressure
 Osseous tissue
 Ossicles
 Ossification
-Ossification
 Osteichthyes
 Osteoblasts
 Osteoclasts
@@ -1534,8 +1513,6 @@ Oxygen
 Oxygen dissociation curve
 Oxygen-carrying capacity
 Oxytocin
-P
-P
 PCR)
 PH scale
 Pacinian corpuscles
@@ -1633,7 +1610,6 @@ Phosphoanhydride bonds
 Phosphodiester
 Phosphodiesterase
 Phospholipids
-Phosphorylation
 Phosphorylation
 Photic zone
 Photoact
@@ -1769,7 +1745,6 @@ Proteases
 Proteasome
 Protein signature
 Proteins
-Proteins
 Proteome
 Proteomics
 Proto-oncogenes
@@ -1796,12 +1771,10 @@ Pygostyle
 Pyloric caeca
 Pyrimidines
 Pyruvate
-Q
 Quadrat
 Quaternary structure
 Quiescent
 Quorum sensing
-R
 R-selected species
 RNA editing
 RNA-binding proteins
@@ -1914,7 +1887,6 @@ Roughage
 Ruffini endings
 Ruminants
 Runners
-S
 S phase
 S ribosomal subunit
 S-shaped curve
@@ -2145,7 +2117,6 @@ Systematics
 Systemic circulation
 Systems biology
 Systole
-T
 T cells
 TCA cycle
 Tachyglossidae
@@ -2272,7 +2243,6 @@ Tubular secretion
 Tumor suppressor genes
 Tunicates
 Tympanum
-U
 Ubiquinone
 Ulna
 Ultrasound
@@ -2294,7 +2264,6 @@ Urochordata
 Urodela
 Uropygial gland
 Uterus
-V
 Vaccination
 Vaccines
 Vacuoles
@@ -2347,7 +2316,6 @@ Vital capacity
 Vitamins
 Viviparity
 Vomerine teeth
-W
 Water potential
 Wavelength
 Wax
@@ -2361,13 +2329,10 @@ Whole-genome sequencing
 Whorled
 Wild type
 Wildlife corridors
-X
 X inactivation
 X-linked
 Xylem
-Y
 Yolk sac
-Z
 Zero population growth
 Zona pellucida
 Zoology
@@ -2376,5 +2341,5 @@ Zoonotic diseases
 Zooplankton
 Zygomycota
 Zygospores
-Α
-Β
+Î
+Î
